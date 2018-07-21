@@ -1,0 +1,17 @@
+body{
+text-align:center;
+}
+
+#container{
+width:80%;
+margin:auto;
+background-color:rgb(180,180,180);
+}
+
+#head{
+border:1px solid black;
+}
+
+#content{
+margin-top:20px;
+}
